@@ -1,18 +1,18 @@
-## Getting Started
+numeros primos gemelos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+pedir dos numeros para hacer un range
+ingrese el primer numero
+num1=1
+ingrese el segundo numero
+num2=15
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+mostar los pares de numeros primos gemelos en ese rango
+range(num1, num15)
+esto lo haria si supiera como funcionan los numeros primos
+buscaria cuales son los primos en ese rango y le resto y le sumo 2 que eso serian dos numeros primos gemelos de ese numeros y asi sucesivamente  con los otros numeros
+3 y 5
+11 y 13
+ 
+ Contar cuántos pares de primos gemelos se encontraron en total
+ lo que haria es el numero primos seria gemelo con 1,3 y otro 3 ,5 y asi lo haria con todo
+total=2
